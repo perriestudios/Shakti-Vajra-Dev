@@ -1,0 +1,34 @@
+/* GPIO Pin mapping for Shakti-Vajra */
+
+GPIO0     -     J4-IO0
+GPIO1     -     J4-IO1
+GPIO2     -     J4-IO2
+GPIO3     -     J4-IO3
+GPIO4     -     J4-IO4
+GPIO5     -     J4-IO5
+GPIO6     -     J4-IO6
+GPIO7     -     J4-IO7
+GPIO8     -     J3-IO8
+GPIO9     -     J3-IO9
+GPIO10    -     J3-IO10
+GPIO11    -     J3-IO11
+GPIO12    -     J3-IO12
+GPIO13    -     J3-IO13
+GPIO14    -     JB3
+GPIO15    -     JB4
+GPIO16    -     LD4   //Always Returns 1 as INPUT
+GPIO17    -     LD5
+GPIO18    -     LD6
+GPIO19    -     LD7
+GPIO20    -     BTN0
+GPIO21    -     BTN1
+GPIO22    -     BTN2
+GPIO23    -     BTN3
+GPIO24    -     JD1
+GPIO25    -     JD2
+GPIO26    -     JD3
+GPIO27    -     JD4
+GPIO28    -     JD7
+GPIO29    -     JD8
+GPIO30    -     JD9
+GPIO31    -     JD10
